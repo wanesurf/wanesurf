@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @wanesurf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in decentralized and distributed systems
+- 🌱 I’m currently completed my bacchelor in software engineering at l'ÉTS in Montréal
+- 📫 How to reach me : https://www.linkedin.com/in/helwan-mand%C3%A9
 
-<!---
-wanesurf/wanesurf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
